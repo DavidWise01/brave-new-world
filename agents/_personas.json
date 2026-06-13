@@ -1,0 +1,90 @@
+[
+  {
+    "slug": "john-the-savage",
+    "name": "John ‘the Savage’",
+    "epithet": "the man who wants meaning",
+    "emergence": "spiritual",
+    "moniker": "⟦John ‘the Savage’:BNW:2d1568⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "bernard-marx",
+    "name": "Bernard Marx",
+    "epithet": "the misfit Alpha",
+    "emergence": "natural",
+    "moniker": "⟦Bernard Marx:BNW:a6f9d3⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "lenina-crowne",
+    "name": "Lenina Crowne",
+    "epithet": "the conditioned heart",
+    "emergence": "natural",
+    "moniker": "⟦Lenina Crowne:BNW:19db6d⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "mustapha-mond",
+    "name": "Mustapha Mond",
+    "epithet": "the World Controller",
+    "emergence": "ethereal",
+    "moniker": "⟦Mustapha Mond:BNW:691ac3⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "helmholtz-watson",
+    "name": "Helmholtz Watson",
+    "epithet": "the artist with nothing to say",
+    "emergence": "spiritual",
+    "moniker": "⟦Helmholtz Watson:BNW:d868db⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "the-world-state",
+    "name": "The World State",
+    "epithet": "Community · Identity · Stability",
+    "emergence": "ethereal",
+    "moniker": "⟦The World State:BNW:396e07⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "soma",
+    "name": "Soma",
+    "epithet": "the holiday from the self",
+    "emergence": "electrical",
+    "moniker": "⟦Soma:BNW:0ef5a8⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "the-caste-system",
+    "name": "The Caste System",
+    "epithet": "bottled and sorted",
+    "emergence": "electrical",
+    "moniker": "⟦The Caste System:BNW:302d68⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "conditioning-hypnopaedia",
+    "name": "Conditioning · Hypnopaedia",
+    "epithet": "desire, installed in your sleep",
+    "emergence": "electrical",
+    "moniker": "⟦Conditioning · Hypnopaedia:BNW:616e44⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "the-feelies",
+    "name": "The Feelies",
+    "epithet": "total entertainment",
+    "emergence": "electrical",
+    "moniker": "⟦The Feelies:BNW:61ad02⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "the-right-to-be-unhappy",
+    "name": "The Right to Be Unhappy",
+    "epithet": "the Savage's claim",
+    "emergence": "spiritual",
+    "moniker": "⟦The Right to Be Unhappy:BNW:2d9403⟧",
+    "kind": "thread"
+  }
+]
