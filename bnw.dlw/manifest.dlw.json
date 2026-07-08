@@ -9,5 +9,12 @@
   "seal": "They will not need to force you; they will give you exactly what you were taught to want — and the only thing left to defend will be the right to be unhappy.",
   "seal_sha256": "62ce245e54937858edd4d49b6b31237d792f0069010fa8aee4d1833be0ffa3a5",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 669,
+    "prev": "6f30e2db042ca6c2a8754b18f75ac3a6d50337973b3a5405c979b40e2d26cb47",
+    "link": "eeb2c5174ad2c84d036fb1124049e428b03faaa5ad63bff967074eeb02ebc6d0",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }

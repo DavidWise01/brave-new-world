@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 669
+slug  : brave-new-world
+seal  : 62ce245e54937858edd4d49b6b31237d792f0069010fa8aee4d1833be0ffa3a5
+prev  : 6f30e2db042ca6c2a8754b18f75ac3a6d50337973b3a5405c979b40e2d26cb47
+link  : eeb2c5174ad2c84d036fb1124049e428b03faaa5ad63bff967074eeb02ebc6d0
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
